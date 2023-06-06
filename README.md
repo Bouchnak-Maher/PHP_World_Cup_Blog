@@ -16,41 +16,40 @@ For the bloggers , the blog provides the following features:
 - Article management
 - Tag management
 - comments management
-![acceuil](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/97737ef5-d4a0-4641-aa66-1d0f71166fb6)
+
+
 
 
 - Blogger authentification Page:
 
 
-![login](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/eede527c-9f90-4658-872e-f25133eed47d)
+![login](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/f91de173-1f9e-4be2-9639-2d0287484178)
 
 - Page of articles with the search bar :
 
 
-![lart](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/f6df8628-1063-4b21-acad-58b1a62cdbc3)
+![lart](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/dd83cffd-224b-41d0-ad82-9245bf97b838)
 
 
 - Page of most read and some static about tags:
-![mostr](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/01b41f40-0adc-46c3-99ab-cf6f9e34418f)
+![mostr](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/23c57d9a-caa9-4f77-9421-f9e60bb71fc2)
 
 
 - Comments management page:
-![comm](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/39aea7ed-8d33-44ee-9dcd-cc82245dfcc2)
+![comm](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/08051b9d-0a62-4902-b63c-da58f9f33987)
 
 
 - Tag management page :
-![cat](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/3a75295b-07c7-48ad-a1cc-67a6a45e05c5)
+![cat](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/3928a1f2-6c0e-4527-9245-4d4ac5c2f9b3)
 
 
 - Article management page :
-![articles](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/ca298f46-66b6-4307-863b-d2264bf578cf)
-
+![articles](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/494f426b-4d35-4bb7-af8e-5515fbe5d324)
 
 - User management (bloggers) page :
 
 
-![blogger](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/975e7109-876d-48e2-937b-a9995a1ef9fa)
-
+![blogger](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/bf8a246a-23b5-4c0b-8e54-4516f658ab48)
 
 
 
