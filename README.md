@@ -19,4 +19,7 @@ For the bloggers , the blog provides the following features:
 ![acceuil](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/97737ef5-d4a0-4641-aa66-1d0f71166fb6)
 
 
+Login Page:
+![login](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/eede527c-9f90-4658-872e-f25133eed47d)
 
+-Page of articles with the search bar :
