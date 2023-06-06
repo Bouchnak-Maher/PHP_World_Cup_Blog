@@ -18,7 +18,7 @@ For the bloggers , the blog provides the following features:
 - comments management
 
 
-
+![acceuil](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/3f3543d8-c8ba-4ef0-aa54-6ce5e5dfed8d)
 
 - Blogger authentification Page:
 
