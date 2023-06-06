@@ -8,7 +8,7 @@ For non-authenticated users, the blog provides the following features:
 - Adding comments and likes
 - Contacting the blogger
 
-![acc](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/1fb8143a-a171-4e01-b9fd-e57c466ac44f)
+![acc](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/4c594fae-cce5-40d7-9f66-e9adba01fbeb)
 
 For the bloggers , the blog provides the following features:
 - Blogger authentification 
