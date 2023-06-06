@@ -46,7 +46,7 @@ For the bloggers , the blog provides the following features:
 - Article management page :
 ![articles](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/494f426b-4d35-4bb7-af8e-5515fbe5d324)
 
-- User management (bloggers) page :
+- User(bloggers) management  page :
 
 
 ![blogger](https://github.com/Bouchnak-Maher/PHP_World_Cup_Blog/assets/94197705/bf8a246a-23b5-4c0b-8e54-4516f658ab48)
